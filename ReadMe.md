@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on Software Development<br>🤝 I’m looking for help with Fixing Bugs<br>🌱 I’m currently learning Content Management<br>💬 Ask me about Flutter<br>⚡ Fun fact : Be Positive
+# 💫 About Me
+
+- 🔭 **Currently working on Flutter development**, building cross-platform mobile applications.  
+- 👯 **Open to collaborations** on innovative software development projects.  
+- 🤝 **Seeking support** with debugging and optimizing complex issues.  
+- 🌱 **Expanding my knowledge** in content management systems to enhance my skill set.  
+- 💬 **Feel free to ask me** about Flutter, app development, or software solutions.  
+- ⚡ **Fun Fact:** I believe in staying positive—both in life and in coding!
 
 
 ## 🌐 Socials:
